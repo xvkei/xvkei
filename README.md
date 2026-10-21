@@ -23,9 +23,13 @@ currently looking for an **internship** where i can ship real things, learn from
 ### what i work with
 
 **frontend** · react, typescript, javascript, html, css, vite
+
 **visuals & audio** · d3.js, canvas, web audio api
+
 **backend** · python, flask, mysql
+
 **ai** · llm integration (nvidia nemotron)
+
 **tools** · git, github actions, github pages, eslint
 
 ### what i bring
